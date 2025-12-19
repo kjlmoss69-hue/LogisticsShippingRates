@@ -1,2 +1,4 @@
-# LogisticsShippingRates
-Logistics Shipping Rates for company XXX
+Please consider the below factors while contributing
+
+Code Style:
+Maintain a consisten Code Style for readability.
