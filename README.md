@@ -1,12 +1,13 @@
 Please consider the below factors while contributing
 
-Code Style:
+Code Style: 
 Maintain a consisten Code Style for readability.
 
-Documentation: 
+Documentation:  
 Ensure well-documented code for effective collaboration.
 
-Testing:  Thoroughly test your changes before submitting a pull request.  
+Testing:   
+Thoroughly test your changes before submitting a pull request.  
 
 Issue Tracker:  
 Check the Issue Tracker for tasks.
